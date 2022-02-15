@@ -7,6 +7,5 @@ file_location: /coursemedia/17-565-israel-history-politics-culture-and-identity-
 file_type: application/pdf
 layout: pdf
 title: Arab-Israeli Conflict
-type: course
 uid: b87fec8d-0801-1c2d-6470-8c5ec66d24ff
 ---

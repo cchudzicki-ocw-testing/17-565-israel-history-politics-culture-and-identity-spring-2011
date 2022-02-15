@@ -7,6 +7,5 @@ file_location: /coursemedia/17-565-israel-history-politics-culture-and-identity-
 file_type: application/pdf
 layout: pdf
 title: Israel in the West Bank and Gaza
-type: course
 uid: 8d5178a3-d3c8-3255-6423-b3adce677e36
 ---

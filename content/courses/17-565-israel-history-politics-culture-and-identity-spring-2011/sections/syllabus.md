@@ -8,7 +8,6 @@ menu:
     name: Syllabus
     weight: 10
 title: Syllabus
-type: course
 uid: d4770a5e-9fbd-8271-dc1d-22be1f1244df
 ---
 

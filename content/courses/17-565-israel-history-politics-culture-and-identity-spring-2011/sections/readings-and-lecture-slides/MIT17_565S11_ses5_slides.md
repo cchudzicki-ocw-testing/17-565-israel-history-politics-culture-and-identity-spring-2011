@@ -7,6 +7,5 @@ file_location: /coursemedia/17-565-israel-history-politics-culture-and-identity-
 file_type: application/pdf
 layout: pdf
 title: Settling the Land
-type: course
 uid: 03c8948f-251b-e9ac-499a-54dfb30d2707
 ---

@@ -8,7 +8,6 @@ menu:
     name: Related Resources
     weight: 40
 title: Related Resources
-type: course
 uid: affdd6ae-4f33-bf17-cdcf-98f550d38ab4
 ---
 

@@ -7,6 +7,5 @@ file_location: /coursemedia/17-565-israel-history-politics-culture-and-identity-
 file_type: application/pdf
 layout: pdf
 title: Zionism
-type: course
 uid: 1f8997ec-ef2e-3c00-797c-1852b4696a18
 ---

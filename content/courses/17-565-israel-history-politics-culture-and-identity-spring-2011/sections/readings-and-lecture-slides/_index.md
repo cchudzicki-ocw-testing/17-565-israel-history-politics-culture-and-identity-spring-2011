@@ -8,7 +8,6 @@ menu:
     name: Readings and Lecture Slides
     weight: 20
 title: Readings and Lecture Slides
-type: course
 uid: 49edf8cf-5f3a-8ede-f2ec-0ca013fb0d61
 ---
 

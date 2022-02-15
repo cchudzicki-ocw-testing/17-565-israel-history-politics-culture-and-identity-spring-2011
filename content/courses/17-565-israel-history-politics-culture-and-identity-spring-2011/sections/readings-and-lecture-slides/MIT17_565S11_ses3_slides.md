@@ -7,6 +7,5 @@ file_location: /coursemedia/17-565-israel-history-politics-culture-and-identity-
 file_type: application/pdf
 layout: pdf
 title: Zionism and the Land of Israel
-type: course
 uid: fa9a1ba5-3ca2-643b-7404-d8342adf22b4
 ---

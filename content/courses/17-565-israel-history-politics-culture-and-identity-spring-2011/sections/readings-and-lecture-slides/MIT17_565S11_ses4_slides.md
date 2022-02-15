@@ -8,6 +8,5 @@ file_location: /coursemedia/17-565-israel-history-politics-culture-and-identity-
 file_type: application/pdf
 layout: pdf
 title: 'From an Idea to Practice: Nation Building and Immigration'
-type: course
 uid: aec4ca14-4fec-c9b3-f31a-6e66a5502eb9
 ---

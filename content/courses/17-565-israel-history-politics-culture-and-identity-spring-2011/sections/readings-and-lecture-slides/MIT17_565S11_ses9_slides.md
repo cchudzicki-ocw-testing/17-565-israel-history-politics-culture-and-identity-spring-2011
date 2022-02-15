@@ -7,6 +7,5 @@ file_location: /coursemedia/17-565-israel-history-politics-culture-and-identity-
 file_type: application/pdf
 layout: pdf
 title: 'Zionism Revisited: The Post-Zionist Debate'
-type: course
 uid: 65b6dd82-5caf-9a2c-dd61-41f5ad931d77
 ---
